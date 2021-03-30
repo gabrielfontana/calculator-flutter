@@ -1,6 +1,6 @@
 # calculator
 
-Desafios da calculadora da aula desenvolvimento mobile da Faculdade de Tecnologia de Americana
+Desafios realizados durante as aulas de desenvolvimento mobile da Faculdade de Tecnologia de Americana
 
 ## Aluno
 
